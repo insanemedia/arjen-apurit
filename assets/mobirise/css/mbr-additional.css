@@ -1418,6 +1418,13 @@ body {
 .cid-qNIGw94kKg B {
   color: #cc2952;
 }
+.cid-qNIYF3kgWy {
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
+}
+.cid-qNIYF3kgWy .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qNIzmt3wXk {
   background-image: url("../../../assets/images/background1.jpg");
 }
